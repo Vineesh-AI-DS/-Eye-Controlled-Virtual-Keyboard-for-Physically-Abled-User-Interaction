@@ -1,4 +1,4 @@
-# -Eye-Controlled-Virtual-Keyboard-for-Physically-Abled-User-Interaction
+# Eye-Controlled-Virtual-Keyboard-for-Physically-Abled-User-Interaction
 ```
 import cv2
 import numpy as np
