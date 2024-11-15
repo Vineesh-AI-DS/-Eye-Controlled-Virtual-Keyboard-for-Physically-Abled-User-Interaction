@@ -157,6 +157,5 @@ cv2.destroyAllWindows()
 ```
 ## Output:
 ![WhatsApp Image 2024-11-15 at 14 12 32_c1c9b3ee](https://github.com/user-attachments/assets/7f6a2437-8240-42e0-9ec2-7c53df5a129d)
-![finalresult](https://github.com/user-attachments/assets/2d17ac58-b0ed-41a1-86f3-dc4ec786bc7a)
 ![Screenshot 2024-11-15 135222](https://github.com/user-attachments/assets/2dbd3f29-f8b5-4903-9343-05e47a40e7ff)
-
+![finalresult](https://github.com/user-attachments/assets/2d17ac58-b0ed-41a1-86f3-dc4ec786bc7a)
