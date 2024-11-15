@@ -1,4 +1,5 @@
 # -Eye-Controlled-Virtual-Keyboard-for-Physically-Abled-User-Interaction
+```
 import cv2
 import numpy as np
 import dlib
@@ -152,3 +153,4 @@ while True:
 
 cap.release()
 cv2.destroyAllWindows()
+```
